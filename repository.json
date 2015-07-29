@@ -11,7 +11,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"platforms": ["osx", "linux"],
+					"platforms": ["osx", "windows"],
 					"tags": true
 				}
 			]
